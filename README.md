@@ -1,4 +1,4 @@
-jfinal-slf4j
+jfinal-akka
 ============
 
-jfinal  slf4j  log api
+jfinal  akka plugin
