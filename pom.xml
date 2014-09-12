@@ -8,6 +8,7 @@
   <artifactId>jfinal-akka</artifactId>
   <version>0.1</version>
   <packaging>jar</packaging>
+  <name>jfinal-akka</name>
   <description>jfinal akka plugins</description>
   <url>https://github.com/Dreampie/jfinal-akka</url>
 
